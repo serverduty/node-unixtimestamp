@@ -1,6 +1,6 @@
 {
   "name": "@serverduty/unixtimestamp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple unix timestamps in seconds",
   "main": "index.js",
   "type": "module",
