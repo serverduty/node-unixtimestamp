@@ -1,0 +1,13 @@
+{
+  "name": "@serverduty/unixtimestamp",
+  "version": "0.1.0",
+  "description": "Simple unix timestamps in seconds",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["unixtimestamp", "unix", "timestamp", "seconds"],
+  "author": "ServerDuty <hello@serverduty.co>",
+  "contributors": [
+    "Adam K Dean <adam@serverduty.co>"
+  ],
+  "license": "MIT"
+}
